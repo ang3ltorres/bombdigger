@@ -1,0 +1,11 @@
+.vscode/
+.gradle/
+/core/bin
+/core/build
+/lwjgl3/bin
+/lwjgl3/build
+/android/libs/
+/android/gen/
+/android/out/
+local.properties
+/assets/assets.txt
